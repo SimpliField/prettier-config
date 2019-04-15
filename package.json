@@ -1,0 +1,9 @@
+{
+  "name": "@simplifield/prettier-config",
+  "version": "1.0.0",
+  "description": "Shared configuration for Prettier",
+  "main": "index.json",
+  "repository": "git@github.com:SimpliField/prettier-config.git",
+  "author": "Xavier Haniquaut <xavier.haniquaut@simplifield.com",
+  "license": "MIT"
+}
