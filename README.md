@@ -2,6 +2,8 @@
 
 > SimpliField shared [Prettier](https://prettier.io) config.
 
+⚠️ You need Prettier >= 1.17.0
+
 ## Usage
 
 **Install**:
